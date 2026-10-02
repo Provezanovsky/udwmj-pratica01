@@ -7,5 +7,5 @@ Página web desenvolvida em HTML e CSS.
 
 ## Como visualizar
 
-Baixe os arquivos e abra `index.html` em um navegador. Mantenha `style.css` na mesma pasta para carregar a formatação. Não é necessário instalar dependências.
+Os arquivos `index.html` e `style.css` precisam estar na mesma pasta para carregar a formatação. 
 
